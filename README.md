@@ -6,7 +6,7 @@ If you have any questions or comments about the content of these activities, con
 
 ## Guided Learning Activities
 ### Guided Learning Activity 01
-* Friday, January 31st from 10:00 - 11:00 am
+* Date: Friday, January 31st from 10:00 - 11:00 am
 * Data Ambassador: Skylar Calandra
 * [Registration Link](https://ccsf-edu.zoom.us/meeting/register/CAgWXR7mRMC1VNnfkXoPXA)
 * [Notebook](#) (pending)

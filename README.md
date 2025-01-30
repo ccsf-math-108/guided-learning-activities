@@ -9,5 +9,5 @@ If you have any questions or comments about the content of these activities, con
 * Date: Friday, January 31st from 10:00 - 11:00 am
 * Data Ambassador: Skylar Calandra
 * [Registration Link](https://ccsf-edu.zoom.us/meeting/register/CAgWXR7mRMC1VNnfkXoPXA)
-* [Notebook](https://ccsf.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fccsf-math-108%2Fguided-learning-activities&branch=main&urlpath=tree%2Fguided-learning-activities%2Fgla%2Fgla01%2Fgla01.ipynb)
+* <a href="https://ccsf.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fccsf-math-108%2Fguided-learning-activities&branch=main&urlpath=tree%2Fguided-learning-activities%2Fgla%2Fgla01%2Fgla01.ipynb" rel="noopener">Notebook</a>
 * [Recording](#) (pending)

@@ -17,6 +17,8 @@ If you have any questions or comments about the content of these activities, con
 * <a href="https://ccsf-edu.zoom.us/rec/share/LbKUEtCeHk25eYvbdW7LNRH9JrrJ4HZHLz37S0KakSNCWChW-wfPxAYEB8z-iBE_.vk8wWho3T9Tes37N" target="_blank" rel="noopener">Recording</a>
 
 ### Guided Learning Activity 06
+<img width="400" alt="gla06 screenshot" src="https://github.com/user-attachments/assets/b4302414-0aed-441b-b5ad-6ee4bd860450" />
+
 * Title: The Law of Large Numbers
 * Date: Friday, March 7th from 10:00 - 11:00 am
 * Data Ambassador: Skylar Calandra

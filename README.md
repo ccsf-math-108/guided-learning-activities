@@ -7,6 +7,8 @@ If you have any questions or comments about the content of these activities, con
 ## Guided Learning Activities
 
 ### Guided Learning Activity 07
+<img width="400" alt="gla07 screenshot" src="https://github.com/user-attachments/assets/7913d3ff-7449-4cd9-b9d4-30bb89f9e4e8" />
+
 * Title: Simulation-Based Hypothesis Testing
 * Date: Friday, March 14th from 10:00 - 11:00 am
 * Data Ambassador: Ossie Finnegan

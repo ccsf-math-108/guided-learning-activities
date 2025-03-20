@@ -6,8 +6,9 @@ If you have any questions or comments about the content of these activities, con
 
 ## Guided Learning Activities
 
-### Guided Learning Activity 07
-<img width="400" alt="gla07 screenshot" src="https://github.com/user-attachments/assets/7913d3ff-7449-4cd9-b9d4-30bb89f9e4e8" />
+### Guided Learning Activity 08
+<img width="400" alt="gla08 screenshot" src="https://github.com/user-attachments/assets/3990f955-5e53-4127-9fb6-45e8b33c681a" />
+
 
 * Title: A/B Testing
 * Date: Friday, March 21st from 10:00 - 11:00 am

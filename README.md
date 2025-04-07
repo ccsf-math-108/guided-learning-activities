@@ -6,9 +6,18 @@ If you have any questions or comments about the content of these activities, con
 
 ## Guided Learning Activities
 
+### Guided Learning Activity 09
+<img width="400" alt="gla00 screenshot" src="https://github.com/user-attachments/assets/47207baa-4349-4784-b68b-f6de071dc1e8" />
+
+* Title: Parameter Estimation
+* Date: Friday, April 11th from 10:00 - 11:00 am
+* Data Ambassador: Skylar Calandra
+* [Zoom Meeting Link](https://ccsf-edu.zoom.us/j/86226012861?pwd=i5bU03xwxc7Kc6aXhS1KuVa5da4VLk.1)
+* <a href="#" target="_blank" rel="noopener">Notebook (Pending)</a>
+* <a href="#" target="_blank" rel="noopener">Recording (Pending)</a>
+
 ### Guided Learning Activity 08
 <img width="400" alt="gla08 screenshot" src="https://github.com/user-attachments/assets/3990f955-5e53-4127-9fb6-45e8b33c681a" />
-
 
 * Title: A/B Testing
 * Date: Friday, March 21st from 10:00 - 11:00 am

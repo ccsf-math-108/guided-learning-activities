@@ -6,6 +6,9 @@ If you have any questions or comments about the content of these activities, con
 
 ## Guided Learning Activities
 
+### Guided Learning Activity 10
+*Canceled*
+
 ### Guided Learning Activity 09
 <img width="400" alt="gla00 screenshot" src="https://github.com/user-attachments/assets/47207baa-4349-4784-b68b-f6de071dc1e8" />
 

@@ -5,8 +5,19 @@ Guided Learning Activities (GLAs) are a weekly tutoring experience designed to s
 If you have any questions or comments about the content of these activities, contact Shawn Wiggins (swiggins@ccsf.edu) or [post an issue](https://github.com/ccsf-math-108/guided-learning-activities/issues) in this repository.
 
 ## Guided Learning Activities
+### Guided Learning Activity 11
+<img width="400" alt="gla11" src="https://github.com/user-attachments/assets/d5b88bfb-0332-4574-a944-0df47fbe31de" />
+
+* Title: Linear Regression
+* Date: Friday, April 23rd from 10:00 - 11:00 am
+* Data Ambassador: Skylar Calandra
+* [Zoom Meeting Link](https://ccsf-edu.zoom.us/j/86226012861?pwd=i5bU03xwxc7Kc6aXhS1KuVa5da4VLk.1)
+* <a href="https://ccsf.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fccsf-math-108%2Fguided-learning-activities&branch=main&urlpath=tree%2Fguided-learning-activities%2Fgla%2Fgla11%2Fgla11.ipynb" target="_blank" rel="noopener">Notebook</a>
+* <a href="#" target="_blank" rel="noopener">Recording (Pending)</a>
 
 ### Guided Learning Activity 10
+* Title: Central Limit Theorem
+* * Date: Friday, April 18th from 10:00 - 11:00 am
 *Canceled*
 
 ### Guided Learning Activity 09

@@ -17,7 +17,7 @@ If you have any questions or comments about the content of these activities, con
 
 ### Guided Learning Activity 10
 * Title: Central Limit Theorem
-* * Date: Friday, April 18th from 10:00 - 11:00 am
+* Date: Friday, April 18th from 10:00 - 11:00 am
 *Canceled*
 
 ### Guided Learning Activity 09

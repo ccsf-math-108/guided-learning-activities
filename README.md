@@ -6,8 +6,6 @@ If you have any questions or comments about the content of these activities, con
 
 ## Guided Learning Activities
 ### Guided Learning Activity 12
-<img width="400" alt="gla12" src="https://github.com/user-attachments/assets/6201cda6-4989-4ff1-837a-05fcebd43080" />
-
 
 * Title: Residual Analysis and Prediction Intervals
 * Date: Friday, May 2nd from 10:00 - 11:00 am

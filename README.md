@@ -5,6 +5,17 @@ Guided Learning Activities (GLAs) are a weekly tutoring experience designed to s
 If you have any questions or comments about the content of these activities, contact Shawn Wiggins (swiggins@ccsf.edu) or [post an issue](https://github.com/ccsf-math-108/guided-learning-activities/issues) in this repository.
 
 ## Guided Learning Activities
+### Guided Learning Activity 13
+<img width="400" alt="gla13" src="https://github.com/user-attachments/assets/fc7b364c-c027-4bb3-a523-8b84fe3230e3" />
+
+* Title: kNN Classification
+* Date: Friday, May 9th from 10:00 - 11:00 am
+* Data Ambassador: Skylar Calandra
+* [Zoom Meeting Link](https://ccsf-edu.zoom.us/j/86226012861?pwd=i5bU03xwxc7Kc6aXhS1KuVa5da4VLk.1)
+* <a href="https://ccsf.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fccsf-math-108%2Fguided-learning-activities&branch=main&urlpath=tree%2Fguided-learning-activities%2Fgla%2Fgla13%2Fgla13.ipynb" target="_blank" rel="noopener">Notebook</a>
+* <a href="#" target="_blank" rel="noopener">Recording (Pending)</a>
+
+
 ### Guided Learning Activity 12
 <img width="400" alt="gla12" src="https://github.com/user-attachments/assets/268f5e32-f826-48d9-90ec-79e45afa2cc8" />
 

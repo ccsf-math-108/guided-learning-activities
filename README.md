@@ -14,7 +14,7 @@ If you have any questions or comments about the content of these activities, con
 * Data Ambassador: Skylar Calandra
 * [Zoom Meeting Link](https://ccsf-edu.zoom.us/j/86226012861?pwd=i5bU03xwxc7Kc6aXhS1KuVa5da4VLk.1)
 * <a href="https://ccsf.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fccsf-math-108%2Fguided-learning-activities&branch=main&urlpath=tree%2Fguided-learning-activities%2Fgla%2Fgla14%2Fgla14.ipynb" target="_blank" rel="noopener">Notebook</a>
-* <a href="#" target="_blank" rel="noopener">Recording (Pending)</a>
+* <a href="https://ccsf-edu.zoom.us/rec/share/84S61Kbo8qPVLfdersNqlh5GDZEQa0_x2lUXXuR6EVfs2qIV-m6uAEBiDQ3Dr2mC.z585DGA22SfdQigU" target="_blank" rel="noopener">Recording</a>
 
 ### Guided Learning Activity 13
 <img width="400" alt="gla13" src="https://github.com/user-attachments/assets/fc7b364c-c027-4bb3-a523-8b84fe3230e3" />

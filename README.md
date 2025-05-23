@@ -5,6 +5,16 @@ Guided Learning Activities (GLAs) are a weekly tutoring experience designed to s
 If you have any questions or comments about the content of these activities, contact Shawn Wiggins (swiggins@ccsf.edu) or [post an issue](https://github.com/ccsf-math-108/guided-learning-activities/issues) in this repository.
 
 ## Guided Learning Activities
+### Guided Learning Activity 15
+<img width="400" alt="Screenshot 2025-05-22 at 17 54 17" src="https://github.com/user-attachments/assets/cc2f1aff-b287-42cf-a15c-ed5e3c0febf7" />
+
+* Title: Beyond `datascience`
+* Data Ambassador: Skylar Calandra
+* <a href="https://ccsf.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fccsf-math-108%2Fguided-learning-activities&branch=main&urlpath=tree%2Fguided-learning-activities%2Fgla%2Fgla15%2Fgla15.ipynb" target="_blank" rel="noopener">Notebook</a>
+* <a href="https://colab.research.google.com/drive/1zYnagJUnxZWI2BSrpRdnyG7Knu3Tkada?usp=sharing" target="_blank" rel="noopener">Supplemental Notebok</a>
+* <a href="" target="_blank" rel="noopener">Recording (Pending)</a>
+
+
 ### Guided Learning Activity 14
 <img width="400" alt="gla14" src="https://github.com/user-attachments/assets/bed23d5f-e379-4d73-b06e-4525ec8029f3" />
 

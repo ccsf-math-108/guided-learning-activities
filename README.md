@@ -113,6 +113,7 @@ If you have any questions or comments about the content of these activities, con
 
 
 ### Guided Learning Activity 04
+<img width="400" alt="Screenshot 2025-06-24 at 22 11 33" src="https://github.com/user-attachments/assets/e7b120e0-d49d-4e7e-a316-615443f2fa1f" />
 
 * Title: Visualizing Trends over Time
 * Date: Friday, February 21st from 10:00 - 11:00 am

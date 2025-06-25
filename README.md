@@ -113,6 +113,7 @@ If you have any questions or comments about the content of these activities, con
 
 
 ### Guided Learning Activity 04
+
 * Title: Visualizing Trends over Time
 * Date: Friday, February 21st from 10:00 - 11:00 am
 * Data Ambassador: Skylar Calandra
@@ -122,6 +123,7 @@ If you have any questions or comments about the content of these activities, con
 * <a href="https://ccsf-edu.zoom.us/rec/share/gSZDptFXX56HPHiSK-GR9n1FpTGn85IjgQO43jW20c_Ns4JuS64kRtFGkQoOEc-j.ihvKduLHJ6u3QV3K" target="_blank" rel="noopener">Recording</a>
 
 ### Guided Learning Activity 03
+
 * Title: Accessing Data
 * Date: Friday, February 14th from 10:00 - 11:00 am
 * Data Ambassador: Skylar Calandra
@@ -130,6 +132,8 @@ If you have any questions or comments about the content of these activities, con
 * <a href="https://ccsf-edu.zoom.us/rec/share/I_VeGwkkO_jlIKlfGfFlyg-BFPPFjNH-HJMxt3NCXGBOgIw26n84gWiCs1kMvTfb.DTUUH3-pfhtl9uUb" target="_blank" rel="noopener">Recording</a>
 
 ### Guided Learning Activity 02
+<img width="400" alt="Screenshot 2025-06-24 at 22 09 32" src="https://github.com/user-attachments/assets/eadfc04b-90ed-4c8e-a5b5-0aa6b3f3522d" />
+
 * Title: Programming Fundamentals and NLP
 * Date: Friday, February 7th from 10:00 - 11:00 am
 * Data Ambassador: Skylar Calandra

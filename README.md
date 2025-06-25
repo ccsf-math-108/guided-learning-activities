@@ -139,6 +139,8 @@ If you have any questions or comments about the content of these activities, con
 * <a href="https://ccsf-edu.zoom.us/rec/share/yEXbIhjzXkC_eZ7KbUKd0v8GYI7xZH54InhyP93j31eyR6JS7LIlSOJ26kEJ9xIG.BSoccN8e2ifXEC12" target="_blank" rel="noopener">Recording</a>
 
 ### Guided Learning Activity 01
+<img width="400" alt="Screenshot 2025-06-24 at 22 06 56" src="https://github.com/user-attachments/assets/a8c7faf4-cd8e-49dd-b5a2-84af88d8c7c3" />
+
 * Title: Study Design
 * Date: Friday, January 31st from 10:00 - 11:00 am
 * Data Ambassador: Skylar Calandra

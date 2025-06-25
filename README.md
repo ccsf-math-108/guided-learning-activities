@@ -104,7 +104,9 @@ If you have any questions or comments about the content of these activities, con
 * <a href="https://ccsf-edu.zoom.us/rec/share/bmxWKxvLmG0NDt64jMubdNxBl_kLRMVSRSKSWOYS_I5Abgs8_tIY7LdGizCVaixZ.AO2A6sVbiM3rV6cr" target="_blank" rel="noopener">Recording</a>
 
 ### Guided Learning Activity 05
-* Title: Data Anlaysis
+<img width="400" alt="Screenshot 2025-06-24 at 22 12 19" src="https://github.com/user-attachments/assets/5805ab1c-6a70-49fd-9ebf-f834a050d0d2" />
+
+* Title: Data Analysis
 * Date: Friday, February 21st from 10:00 - 11:00 am
 * Data Ambassador: Skylar Calandra
 * [Zoom Meeting Link](https://ccsf-edu.zoom.us/j/86226012861?pwd=i5bU03xwxc7Kc6aXhS1KuVa5da4VLk.1)

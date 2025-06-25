@@ -123,6 +123,7 @@ If you have any questions or comments about the content of these activities, con
 * <a href="https://ccsf-edu.zoom.us/rec/share/gSZDptFXX56HPHiSK-GR9n1FpTGn85IjgQO43jW20c_Ns4JuS64kRtFGkQoOEc-j.ihvKduLHJ6u3QV3K" target="_blank" rel="noopener">Recording</a>
 
 ### Guided Learning Activity 03
+<img width="400" alt="Screenshot 2025-06-24 at 22 10 47" src="https://github.com/user-attachments/assets/29c3f4a6-6d19-4e5c-bdd6-99e21fe814c1" />
 
 * Title: Accessing Data
 * Date: Friday, February 14th from 10:00 - 11:00 am

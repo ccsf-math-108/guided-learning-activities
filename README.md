@@ -1,4 +1,4 @@
-# MATH 108 Guided Learning Activities (Spring 2025)
+# MATH 108 Guided Learning Activities
 Guided Learning Activities (GLAs) are designed to support your learning beyond the regular classroom instruction and assignments in MATH 108. During the Spring 2026 semester, a student [Data Ambassador](https://ccsf-math-108.github.io/materials-sp25/resources/course-support.html#headingDataAmbassadors) walked through these activities to provide a reference for how to complete them and to help you review course concepts through hands-on, collaborative work. Using Jupyter Notebooks, GLAs offer structured yet flexible opportunities to explore, practice, and extend your understanding of data science topics.
 
 This page contains the GLA notebooks along with recordings from the live sessions led by the Data Ambassador, so you have someone to follow if you complete the notebooks on your own. Keep in mind that GLAs are *not graded assignments* for MATH 108 by default. If you have any questions or concerns about participation, please reach out to your instructor.

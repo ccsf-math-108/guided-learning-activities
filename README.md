@@ -25,7 +25,6 @@ If you have any questions or comments about the content of these activities, con
 * <a href="https://ccsf-edu.zoom.us/rec/share/yEXbIhjzXkC_eZ7KbUKd0v8GYI7xZH54InhyP93j31eyR6JS7LIlSOJ26kEJ9xIG.BSoccN8e2ifXEC12" target="_blank" rel="noopener">Recording of Live Walkthrough</a>
 * Data Recorded: Friday, February 7th from 10:00 - 11:00 am
 * Data Ambassador: Skylar Calandra
-* In-Person Location: [JDVL 807](https://maps.app.goo.gl/EjuEgpax22FZZj1r7)
 
 ### Guided Learning Activity 03
 <img width="400" alt="Screenshot 2025-06-24 at 22 10 47" src="https://github.com/user-attachments/assets/29c3f4a6-6d19-4e5c-bdd6-99e21fe814c1" />
@@ -44,7 +43,6 @@ If you have any questions or comments about the content of these activities, con
 * <a href="https://ccsf-edu.zoom.us/rec/share/gSZDptFXX56HPHiSK-GR9n1FpTGn85IjgQO43jW20c_Ns4JuS64kRtFGkQoOEc-j.ihvKduLHJ6u3QV3K" target="_blank" rel="noopener">Recording of Live Walkthrough</a>
 * Data Recorded: Friday, February 21st from 10:00 - 11:00 am
 * Data Ambassador: Skylar Calandra
-* In-Person Location: [JDVL 807](https://maps.app.goo.gl/EjuEgpax22FZZj1r7)
 
 ### Guided Learning Activity 05
 <img width="400" alt="Screenshot 2025-06-24 at 22 12 19" src="https://github.com/user-attachments/assets/5805ab1c-6a70-49fd-9ebf-f834a050d0d2" />

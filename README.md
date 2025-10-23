@@ -138,7 +138,8 @@ If you have any questions or comments about the content of these activities, con
 <img width="400" alt="Screenshot 2025-05-22 at 17 54 17" src="https://github.com/user-attachments/assets/cc2f1aff-b287-42cf-a15c-ed5e3c0febf7" />
 
 * Title: Beyond `datascience`
-* <a href="https://colab.research.google.com/drive/1zYnagJUnxZWI2BSrpRdnyG7Knu3Tkada?usp=sharing" target="_blank" rel="noopener">Supplemental Notebok</a>
+* <a href="https://ccsf.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fccsf-math-108%2Fguided-learning-activities&branch=main&urlpath=tree%2Fguided-learning-activities%2Fgla%2Fgla15%2Fgla15.ipynb" target="_blank" rel="noopener">Notebook</a>
 * <a href="https://ccsf-edu.zoom.us/rec/share/STGezQ9ufHEmSrOeifUIIsFNwy-rwE9_gtMNVsp-u30-6hcYYN5fOoCzsTTEluAk.3f7jr4GGTiO1sRdO?startTime=1748030076000" target="_blank" rel="noopener">Recording of Live Walkthrough</a>
 * Data Ambassador: Skylar Calandra
-* <a href="https://ccsf.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fccsf-math-108%2Fguided-learning-activities&branch=main&urlpath=tree%2Fguided-learning-activities%2Fgla%2Fgla15%2Fgla15.ipynb" target="_blank" rel="noopener">Notebook</a>
+* <a href="https://colab.research.google.com/drive/1zYnagJUnxZWI2BSrpRdnyG7Knu3Tkada?usp=sharing" target="_blank" rel="noopener">Supplemental Notebok</a>
+

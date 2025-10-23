@@ -13,7 +13,7 @@ If you have any questions or comments about the content of these activities, con
 
 * Title: Study Design
 * <a href="https://ccsf.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fccsf-math-108%2Fguided-learning-activities&branch=main&urlpath=tree%2Fguided-learning-activities%2Fgla%2Fgla01%2Fgla01.ipynb" target="_blank" rel="noopener">Open the Jupyter Notebook</a>
-* <a href="https://ccsf-edu.zoom.us/rec/share/AvlvkrP_XT6hI4I9G-gJMRdchzYJMxNttAGfwhGAlDg5le36MPtZ-7IyN8G8DUEM.U9erjemDW7DEWf4A" target="_blank" rel="noopener">Recording of Live Walkthrough</a>
+* <a href="https://ccsf-edu.zoom.us/rec/share/AvlvkrP_XT6hI4I9G-gJMRdchzYJMxNttAGfwhGAlDg5le36MPtZ-7IyN8G8DUEM.U9erjemDW7DEWf4A" target="_blank" rel="noopener">View a Recording of the Live Walkthrough</a>
 * Data Recorded: Friday, January 31st from 10:00 - 11:00 am
 * Data Ambassador: Skylar Calandra
 
@@ -22,7 +22,7 @@ If you have any questions or comments about the content of these activities, con
 
 * Title: Programming Fundamentals and NLP
 * <a href="https://ccsf.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fccsf-math-108%2Fguided-learning-activities&branch=main&urlpath=tree%2Fguided-learning-activities%2Fgla%2Fgla02%2Fgla02.ipynb" target="_blank" rel="noopener">Open the Jupyter Notebook</a>
-* <a href="https://ccsf-edu.zoom.us/rec/share/yEXbIhjzXkC_eZ7KbUKd0v8GYI7xZH54InhyP93j31eyR6JS7LIlSOJ26kEJ9xIG.BSoccN8e2ifXEC12" target="_blank" rel="noopener">Recording of Live Walkthrough</a>
+* <a href="https://ccsf-edu.zoom.us/rec/share/yEXbIhjzXkC_eZ7KbUKd0v8GYI7xZH54InhyP93j31eyR6JS7LIlSOJ26kEJ9xIG.BSoccN8e2ifXEC12" target="_blank" rel="noopener">View a Recording of the Live Walkthrough</a>
 * Data Recorded: Friday, February 7th from 10:00 - 11:00 am
 * Data Ambassador: Skylar Calandra
 
@@ -31,7 +31,7 @@ If you have any questions or comments about the content of these activities, con
 
 * Title: Accessing Data
 * <a href="https://ccsf.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fccsf-math-108%2Fguided-learning-activities&branch=main&urlpath=tree%2Fguided-learning-activities%2Fgla%2Fgla03%2Fgla03.ipynb" target="_blank" rel="noopener">Open the Jupyter Notebook</a>
-* <a href="https://ccsf-edu.zoom.us/rec/share/I_VeGwkkO_jlIKlfGfFlyg-BFPPFjNH-HJMxt3NCXGBOgIw26n84gWiCs1kMvTfb.DTUUH3-pfhtl9uUb" target="_blank" rel="noopener">Recording of Live Walkthrough</a>
+* <a href="https://ccsf-edu.zoom.us/rec/share/I_VeGwkkO_jlIKlfGfFlyg-BFPPFjNH-HJMxt3NCXGBOgIw26n84gWiCs1kMvTfb.DTUUH3-pfhtl9uUb" target="_blank" rel="noopener">View a Recording of the Live Walkthrough</a>
 * Data Recorded: Friday, February 14th from 10:00 - 11:00 am
 * Data Ambassador: Skylar Calandra
   
@@ -40,7 +40,7 @@ If you have any questions or comments about the content of these activities, con
 
 * Title: Visualizing Trends over Time
 * <a href="https://ccsf.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fccsf-math-108%2Fguided-learning-activities&branch=main&urlpath=tree%2Fguided-learning-activities%2Fgla%2Fgla04%2Fgla04.ipynb" target="_blank" rel="noopener">Open the Jupyter Notebook</a>
-* <a href="https://ccsf-edu.zoom.us/rec/share/gSZDptFXX56HPHiSK-GR9n1FpTGn85IjgQO43jW20c_Ns4JuS64kRtFGkQoOEc-j.ihvKduLHJ6u3QV3K" target="_blank" rel="noopener">Recording of Live Walkthrough</a>
+* <a href="https://ccsf-edu.zoom.us/rec/share/gSZDptFXX56HPHiSK-GR9n1FpTGn85IjgQO43jW20c_Ns4JuS64kRtFGkQoOEc-j.ihvKduLHJ6u3QV3K" target="_blank" rel="noopener">View a Recording of the Live Walkthrough</a>
 * Data Recorded: Friday, February 21st from 10:00 - 11:00 am
 * Data Ambassador: Skylar Calandra
 
@@ -49,7 +49,7 @@ If you have any questions or comments about the content of these activities, con
 
 * Title: Data Analysis
 * <a href="https://ccsf.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fccsf-math-108%2Fguided-learning-activities&branch=main&urlpath=tree%2Fguided-learning-activities%2Fgla%2Fgla05%2Fgla05.ipynb" target="_blank" rel="noopener">Open the Jupyter Notebook</a>
-* <a href="https://ccsf-edu.zoom.us/rec/share/PR3outKxSguMA9wYYjZvn0eZSr5iV1Hg5iB3a1P-sfCGFF-Yvj8PF1docAP5jAN4.0IuKchA6Pw1Q0UiR" target="_blank" rel="noopener">Recording of Live Walkthrough</a>
+* <a href="https://ccsf-edu.zoom.us/rec/share/PR3outKxSguMA9wYYjZvn0eZSr5iV1Hg5iB3a1P-sfCGFF-Yvj8PF1docAP5jAN4.0IuKchA6Pw1Q0UiR" target="_blank" rel="noopener">View a Recording of the Live Walkthrough</a>
 * Data Recorded: Friday, February 21st from 10:00 - 11:00 am
 * Data Ambassador: Skylar Calandra
 
@@ -58,7 +58,7 @@ If you have any questions or comments about the content of these activities, con
 
 * Title: The Law of Large Numbers
 * <a href="https://ccsf.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fccsf-math-108%2Fguided-learning-activities&branch=main&urlpath=tree%2Fguided-learning-activities%2Fgla%2Fgla06%2Fgla06.ipynb" target="_blank" rel="noopener">Open the Jupyter Notebook</a>
-* <a href="https://ccsf-edu.zoom.us/rec/share/bmxWKxvLmG0NDt64jMubdNxBl_kLRMVSRSKSWOYS_I5Abgs8_tIY7LdGizCVaixZ.AO2A6sVbiM3rV6cr" target="_blank" rel="noopener">Recording of Live Walkthrough</a>
+* <a href="https://ccsf-edu.zoom.us/rec/share/bmxWKxvLmG0NDt64jMubdNxBl_kLRMVSRSKSWOYS_I5Abgs8_tIY7LdGizCVaixZ.AO2A6sVbiM3rV6cr" target="_blank" rel="noopener">View a Recording of the Live Walkthrough</a>
 * Data Recorded: Friday, March 7th from 10:00 - 11:00 am
 * Data Ambassador: Skylar Calandra
 
@@ -67,7 +67,7 @@ If you have any questions or comments about the content of these activities, con
 
 * Title: Simulation-Based Hypothesis Testing
 * <a href="https://ccsf.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fccsf-math-108%2Fguided-learning-activities&branch=main&urlpath=tree%2Fguided-learning-activities%2Fgla%2Fgla07%2Fgla07.ipynb" target="_blank" rel="noopener">Open the Jupyter Notebook</a>
-* <a href="https://ccsf-edu.zoom.us/rec/share/LbKUEtCeHk25eYvbdW7LNRH9JrrJ4HZHLz37S0KakSNCWChW-wfPxAYEB8z-iBE_.vk8wWho3T9Tes37N" target="_blank" rel="noopener">Recording of Live Walkthrough</a>
+* <a href="https://ccsf-edu.zoom.us/rec/share/LbKUEtCeHk25eYvbdW7LNRH9JrrJ4HZHLz37S0KakSNCWChW-wfPxAYEB8z-iBE_.vk8wWho3T9Tes37N" target="_blank" rel="noopener">View a Recording of the Live Walkthrough</a>
 * Data Recorded: Friday, March 14th from 10:00 - 11:00 am
 * Data Ambassador: Ossie Finnegan
 
@@ -76,7 +76,7 @@ If you have any questions or comments about the content of these activities, con
 
 * Title: A/B Testing
 * <a href="https://ccsf.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fccsf-math-108%2Fguided-learning-activities&branch=main&urlpath=tree%2Fguided-learning-activities%2Fgla%2Fgla08%2Fgla08.ipynb" target="_blank" rel="noopener">Open the Jupyter Notebook</a>
-* <a href="https://ccsf-edu.zoom.us/rec/share/ySSWd6sUH12wzA7YM9TcsU5g8P8Wh0xstdrWqw0REQQhp2jmMGtaN3A0XFq75NnN.43Uv0gApXRUme1XQ" target="_blank" rel="noopener">Recording of Live Walkthrough</a>
+* <a href="https://ccsf-edu.zoom.us/rec/share/ySSWd6sUH12wzA7YM9TcsU5g8P8Wh0xstdrWqw0REQQhp2jmMGtaN3A0XFq75NnN.43Uv0gApXRUme1XQ" target="_blank" rel="noopener">View a Recording of the Live Walkthrough</a>
 * Data Recorded: Friday, March 21st from 10:00 - 11:00 am
 * Data Ambassador: Skylar Calandra
 
@@ -87,7 +87,7 @@ If you have any questions or comments about the content of these activities, con
 
 * Title: Parameter Estimation
 * <a href="https://ccsf.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fccsf-math-108%2Fguided-learning-activities&branch=main&urlpath=tree%2Fguided-learning-activities%2Fgla%2Fgla09%2Fgla09.ipynb" target="_blank" rel="noopener">Open the Jupyter Notebook</a>
-* <a href="https://ccsf-edu.zoom.us/rec/share/LDt2kBol_PcVDOfXlzU7cAKJhpuVDHXp7zwwC7z_yoiaRLr2vkDcPih0tE49ZMvh.MEFWUFDyvJWMMIxC" target="_blank" rel="noopener">Recording of Live Walkthrough</a>
+* <a href="https://ccsf-edu.zoom.us/rec/share/LDt2kBol_PcVDOfXlzU7cAKJhpuVDHXp7zwwC7z_yoiaRLr2vkDcPih0tE49ZMvh.MEFWUFDyvJWMMIxC" target="_blank" rel="noopener">View a Recording of the Live Walkthrough</a>
 * Data Recorded: Friday, April 11th from 10:00 - 11:00 am
 * Data Ambassador: Skylar Calandra
   
@@ -101,7 +101,7 @@ If you have any questions or comments about the content of these activities, con
 
 * Title: Linear Regression
 * <a href="https://ccsf.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fccsf-math-108%2Fguided-learning-activities&branch=main&urlpath=tree%2Fguided-learning-activities%2Fgla%2Fgla11%2Fgla11.ipynb" target="_blank" rel="noopener">Open the Jupyter Notebook</a>
-* <a href="https://ccsf-edu.zoom.us/rec/share/dArIKDZuGCS0p2vR1Ma_fq5JK0AZzcMpkq9CH__pBC-neA1t2cnUErxOsqPqUVI2.qJwfNW3B8XgMbUvp" target="_blank" rel="noopener">Recording of Live Walkthrough</a>
+* <a href="https://ccsf-edu.zoom.us/rec/share/dArIKDZuGCS0p2vR1Ma_fq5JK0AZzcMpkq9CH__pBC-neA1t2cnUErxOsqPqUVI2.qJwfNW3B8XgMbUvp" target="_blank" rel="noopener">View a Recording of the Live Walkthrough</a>
 * Data Recorded: Friday, April 23rd from 10:00 - 11:00 am
 * Data Ambassador: Skylar Calandra
   
@@ -110,7 +110,7 @@ If you have any questions or comments about the content of these activities, con
 
 * Title: Residual Analysis and Prediction Intervals
 * <a href="https://ccsf.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fccsf-math-108%2Fguided-learning-activities&branch=main&urlpath=tree%2Fguided-learning-activities%2Fgla%2Fgla12%2Fgla12.ipynb" target="_blank" rel="noopener">Open the Jupyter Notebook</a>
-* <a href="https://ccsf-edu.zoom.us/rec/share/EZ-zmikoSDAb50GGLNS7kJcKOATP7K9BwUcpDC-YEVxQxmxhANkcH4rhQtJqnHvy.TBCpIT7MYXMaYog4" target="_blank" rel="noopener">Recording of Live Walkthrough</a>
+* <a href="https://ccsf-edu.zoom.us/rec/share/EZ-zmikoSDAb50GGLNS7kJcKOATP7K9BwUcpDC-YEVxQxmxhANkcH4rhQtJqnHvy.TBCpIT7MYXMaYog4" target="_blank" rel="noopener">View a Recording of the Live Walkthrough</a>
 * Data Recorded: Friday, May 2nd from 10:00 - 11:00 am
 * Data Ambassador: Skylar Calandra
   
@@ -119,7 +119,7 @@ If you have any questions or comments about the content of these activities, con
 
 * Title: kNN Classification
 * <a href="https://ccsf.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fccsf-math-108%2Fguided-learning-activities&branch=main&urlpath=tree%2Fguided-learning-activities%2Fgla%2Fgla13%2Fgla13.ipynb" target="_blank" rel="noopener">Open the Jupyter Notebook</a>
-* <a href="https://ccsf-edu.zoom.us/rec/share/YowP4Zqz4QWul7Nq7mhgVM4oHW6jPTejb_3SUvHKzrK1Pou5gildEhh-XbGIlsw.IEWyLZqHpil1HD4k?startTime=1746810122000" target="_blank" rel="noopener">Recording of Live Walkthrough</a>
+* <a href="https://ccsf-edu.zoom.us/rec/share/YowP4Zqz4QWul7Nq7mhgVM4oHW6jPTejb_3SUvHKzrK1Pou5gildEhh-XbGIlsw.IEWyLZqHpil1HD4k?startTime=1746810122000" target="_blank" rel="noopener">View a Recording of the Live Walkthrough</a>
 * Data Recorded: Friday, May 9th from 10:00 - 11:00 am
 * Data Ambassador: Skylar Calandra
 
@@ -128,7 +128,7 @@ If you have any questions or comments about the content of these activities, con
 
 * Title: Bayes' Rule
 * <a href="https://ccsf.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fccsf-math-108%2Fguided-learning-activities&branch=main&urlpath=tree%2Fguided-learning-activities%2Fgla%2Fgla14%2Fgla14.ipynb" target="_blank" rel="noopener">Open the Jupyter Notebook</a>
-* <a href="https://ccsf-edu.zoom.us/rec/share/84S61Kbo8qPVLfdersNqlh5GDZEQa0_x2lUXXuR6EVfs2qIV-m6uAEBiDQ3Dr2mC.z585DGA22SfdQigU" target="_blank" rel="noopener">Recording of Live Walkthrough</a>
+* <a href="https://ccsf-edu.zoom.us/rec/share/84S61Kbo8qPVLfdersNqlh5GDZEQa0_x2lUXXuR6EVfs2qIV-m6uAEBiDQ3Dr2mC.z585DGA22SfdQigU" target="_blank" rel="noopener">View a Recording of the Live Walkthrough</a>
 * Data Recorded: Friday, May 16th from 10:00 - 11:00 am
 * Data Ambassador: Skylar Calandra
   
@@ -137,7 +137,7 @@ If you have any questions or comments about the content of these activities, con
 
 * Title: Beyond `datascience`
 * <a href="https://ccsf.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fccsf-math-108%2Fguided-learning-activities&branch=main&urlpath=tree%2Fguided-learning-activities%2Fgla%2Fgla15%2Fgla15.ipynb" target="_blank" rel="noopener">Open the Jupyter Notebook</a>
-* <a href="https://ccsf-edu.zoom.us/rec/share/STGezQ9ufHEmSrOeifUIIsFNwy-rwE9_gtMNVsp-u30-6hcYYN5fOoCzsTTEluAk.3f7jr4GGTiO1sRdO?startTime=1748030076000" target="_blank" rel="noopener">Recording of Live Walkthrough</a>
+* <a href="https://ccsf-edu.zoom.us/rec/share/STGezQ9ufHEmSrOeifUIIsFNwy-rwE9_gtMNVsp-u30-6hcYYN5fOoCzsTTEluAk.3f7jr4GGTiO1sRdO?startTime=1748030076000" target="_blank" rel="noopener">View a Recording of the Live Walkthrough</a>
 * Data Ambassador: Skylar Calandra
 * <a href="https://colab.research.google.com/drive/1zYnagJUnxZWI2BSrpRdnyG7Knu3Tkada?usp=sharing" target="_blank" rel="noopener">Supplemental Google Colab Notebok</a>
 

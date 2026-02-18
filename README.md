@@ -13,7 +13,7 @@ If you have any questions or comments about the content of these activities, con
 
 * Title: Study Design
 * <a href="https://ccsf.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fccsf-math-108%2Fguided-learning-activities&branch=main&urlpath=tree%2Fguided-learning-activities%2Fgla%2Fgla01%2Fgla01.ipynb" target="_blank" rel="noopener">Open the Jupyter Notebook</a>
-* <a href="https://ccsf-edu.zoom.us/rec/share/AvlvkrP_XT6hI4I9G-gJMRdchzYJMxNttAGfwhGAlDg5le36MPtZ-7IyN8G8DUEM.U9erjemDW7DEWf4A" target="_blank" rel="noopener">View a Recording of the Live Walkthrough</a>
+* <a href="https://youtu.be/VEGuzE7t6eQ" target="_blank" rel="noopener">View a Recording of the Live Walkthrough</a>
 * Data Recorded: Friday, January 31st from 10:00 - 11:00 am
 * Data Ambassador: Skylar Calandra
 

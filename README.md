@@ -22,7 +22,7 @@ If you have any questions or comments about the content of these activities, con
 
 * Title: Programming Fundamentals and NLP
 * <a href="https://ccsf.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fccsf-math-108%2Fguided-learning-activities&branch=main&urlpath=tree%2Fguided-learning-activities%2Fgla%2Fgla02%2Fgla02.ipynb" target="_blank" rel="noopener">Open the Jupyter Notebook</a>
-* <a href="https://ccsf-edu.zoom.us/rec/share/yEXbIhjzXkC_eZ7KbUKd0v8GYI7xZH54InhyP93j31eyR6JS7LIlSOJ26kEJ9xIG.BSoccN8e2ifXEC12" target="_blank" rel="noopener">View a Recording of the Live Walkthrough</a>
+* <a href="https://youtu.be/9VPkBr1--HQ" target="_blank" rel="noopener">View a Recording of the Live Walkthrough</a>
 * Data Recorded: Friday, February 7th from 10:00 - 11:00 am
 * Data Ambassador: Skylar Calandra
 

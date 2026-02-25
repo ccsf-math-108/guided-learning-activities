@@ -40,7 +40,7 @@ If you have any questions or comments about the content of these activities, con
 
 * Title: Visualizing Trends over Time
 * <a href="https://ccsf.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fccsf-math-108%2Fguided-learning-activities&branch=main&urlpath=tree%2Fguided-learning-activities%2Fgla%2Fgla04%2Fgla04.ipynb" target="_blank" rel="noopener">Open the Jupyter Notebook</a>
-* <a href="https://ccsf-edu.zoom.us/rec/share/gSZDptFXX56HPHiSK-GR9n1FpTGn85IjgQO43jW20c_Ns4JuS64kRtFGkQoOEc-j.ihvKduLHJ6u3QV3K" target="_blank" rel="noopener">View a Recording of the Live Walkthrough</a>
+* <a href="https://youtu.be/G0S7g7YJFMw" target="_blank" rel="noopener">View a Recording of the Live Walkthrough</a>
 * Data Recorded: Friday, February 21st from 10:00 - 11:00 am
 * Data Ambassador: Skylar Calandra
 
@@ -49,7 +49,7 @@ If you have any questions or comments about the content of these activities, con
 
 * Title: Data Analysis
 * <a href="https://ccsf.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fccsf-math-108%2Fguided-learning-activities&branch=main&urlpath=tree%2Fguided-learning-activities%2Fgla%2Fgla05%2Fgla05.ipynb" target="_blank" rel="noopener">Open the Jupyter Notebook</a>
-* <a href="https://youtu.be/G0S7g7YJFMw" target="_blank" rel="noopener">View a Recording of the Live Walkthrough</a>
+* <a href="https://youtu.be/aktKgZb5y3A" target="_blank" rel="noopener">View a Recording of the Live Walkthrough</a>
 * Data Recorded: Friday, February 28st from 10:00 - 11:00 am
 * Data Ambassador: Skylar Calandra
 

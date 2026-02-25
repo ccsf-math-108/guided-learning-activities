@@ -67,7 +67,7 @@ If you have any questions or comments about the content of these activities, con
 
 * Title: Simulation-Based Hypothesis Testing
 * <a href="https://ccsf.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fccsf-math-108%2Fguided-learning-activities&branch=main&urlpath=tree%2Fguided-learning-activities%2Fgla%2Fgla07%2Fgla07.ipynb" target="_blank" rel="noopener">Open the Jupyter Notebook</a>
-* <a href="https://ccsf-edu.zoom.us/rec/share/LbKUEtCeHk25eYvbdW7LNRH9JrrJ4HZHLz37S0KakSNCWChW-wfPxAYEB8z-iBE_.vk8wWho3T9Tes37N" target="_blank" rel="noopener">View a Recording of the Live Walkthrough</a>
+* <a href="https://youtu.be/rcva_IoEZpw" target="_blank" rel="noopener">View a Recording of the Live Walkthrough</a>
 * Data Recorded: Friday, March 14th from 10:00 - 11:00 am
 * Data Ambassador: Ossie Finnegan
 

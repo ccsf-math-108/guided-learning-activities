@@ -94,7 +94,6 @@ If you have any questions or comments about the content of these activities, con
 ### Guided Learning Activity 10
 * Title: Central Limit Theorem
 * <a href="https://ccsf.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fccsf-math-108%2Fguided-learning-activities&branch=main&urlpath=tree%2Fguided-learning-activities%2Fgla%2Fgla10%2Fgla10.ipynb" target="_blank" rel="noopener">Open the Jupyter Notebook</a>
-* Data Recorded: *Canceled*
 
 ### Guided Learning Activity 11
 <img width="400" alt="gla11" src="https://github.com/user-attachments/assets/d5b88bfb-0332-4574-a944-0df47fbe31de" />

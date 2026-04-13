@@ -96,7 +96,7 @@ If you have any questions or comments about the content of these activities, con
 
 * Title: Central Limit Theorem
 * <a href="https://ccsf.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fccsf-math-108%2Fguided-learning-activities&branch=main&urlpath=tree%2Fguided-learning-activities%2Fgla%2Fgla10%2Fgla10.ipynb" target="_blank" rel="noopener">Open the Jupyter Notebook</a>
-* <a href="[https://youtu.be/1Bl9Q_j5ul0](https://youtu.be/SQCJiK9OWlw)" target="_blank" rel="noopener">View a Recording of the Live Walkthrough</a>
+* <a href="https://youtu.be/SQCJiK9OWlw" target="_blank" rel="noopener">View a Recording of the Live Walkthrough</a>
 * Data Recorded: Sunday, April 12th
 * Data Ambassador: Arun Ayyasamy
 

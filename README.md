@@ -114,7 +114,7 @@ If you have any questions or comments about the content of these activities, con
 
 * Title: Residual Analysis and Prediction Intervals
 * <a href="https://ccsf.cloudbank.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fccsf-math-108%2Fguided-learning-activities&branch=main&urlpath=tree%2Fguided-learning-activities%2Fgla%2Fgla12%2Fgla12.ipynb" target="_blank" rel="noopener">Open the Jupyter Notebook</a>
-* <a href="https://ccsf-edu.zoom.us/rec/share/EZ-zmikoSDAb50GGLNS7kJcKOATP7K9BwUcpDC-YEVxQxmxhANkcH4rhQtJqnHvy.TBCpIT7MYXMaYog4" target="_blank" rel="noopener">View a Recording of the Live Walkthrough</a>
+* <a href="https://youtu.be/teqBQofOOh4" target="_blank" rel="noopener">View a Recording of the Live Walkthrough</a>
 * Data Recorded: Friday, May 2nd from 10:00 - 11:00 am
 * Data Ambassador: Skylar Calandra
   
